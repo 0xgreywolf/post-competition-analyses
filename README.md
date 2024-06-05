@@ -1,1 +1,2 @@
-# Post Competition Analysis
+# Post Competition Analyses
+These compilations consist of my analyses from previously joined competitions, solely for the purpose of my own improvement. The content here should not be construed as factual in any way.
